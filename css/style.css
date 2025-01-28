@@ -1,10 +1,13 @@
 
+/*defaul page*/
+
 * {
     margin: 0%;
     padding: 0%
     box-sizing: border-box;
-    
 }
+
+/* container and main */
     
 .container {
     display: inline-block;
@@ -19,6 +22,8 @@
 main {
     padding-left: 220px;
 }
+
+/* new task */
 
 .add-task {
     display: inline-block;
@@ -85,6 +90,8 @@ main {
     background-color: rgb(70, 152, 230);
 }
 
+/* today */
+
 .font3 {
     color: white;
     padding-left: 12px;
@@ -133,6 +140,8 @@ main {
     background-color: rgb(240, 167, 33);
 }
 
+/* upcoming */
+
 .website {
     display: inline-block;
     border-radius: 35%;
@@ -147,6 +156,6 @@ main {
     border-radius: 35%;
     width: 59px;
     height: 23px; 
-    padding-left: 5px;
+    padding-left: 10px;
     background-color: rgb(79, 218, 44);
 }
