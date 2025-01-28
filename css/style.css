@@ -3,8 +3,49 @@
     margin: 0%;
     padding: 0%
     box-sizing: border-box;
+    
 }
     
 .container {
     display: inline-block;
+}
+
+.container2 {
+    margin-left: 23px;
+    margin-top: 12px;
+    padding-bottom: 74px;
+}
+
+main {
+    padding-left: 220px;
+}
+
+.add-task {
+    display: inline-block;
+    border-radius: 5%;
+    width: 70px;
+    height: 24px;
+    background-color: rgb(70, 152, 230);
+}
+
+.font {
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: small;
+}
+
+.add-section {
+    display: inline-block;
+    border-radius: 5%;
+    border: 1px solid gray;
+    width: 83px;
+    height: 24px;
+    background-color: white;
+
+.font2 {
+    color:grey;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: small;
 }
